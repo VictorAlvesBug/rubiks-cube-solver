@@ -1,0 +1,15 @@
+{
+  "name": "rubiks-cube-solver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "rubiks-cube-solver": "^1.2.0"
+  }
+}
